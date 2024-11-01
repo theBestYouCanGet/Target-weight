@@ -44,5 +44,5 @@ int main() {
       printf("Invalid choice!\n");
       break;
   }
-  printf("\t Your earth weight is %.2f(lbs or kg): ", earthWeight);
+  printf("\t Your earth weight is: %.2f(lbs or kg) ", earthWeight\n);
 }
